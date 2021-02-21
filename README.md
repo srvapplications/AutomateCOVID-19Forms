@@ -20,7 +20,7 @@ Automatic Creation of Covid19 Employee Commute Allowance Forms - Αυτόματ�
 
 https://www.srvapps.com/images/2021/02/15/AutomateCovidFormsStep1.jpg
 
-
+![Figure 1-1](https://www.srvapps.com/images/2021/02/15/AutomateCovidFormsStep1.jpg "Figure 1-1")
 
 
 https://www.srvapps.com/automatecovid-19formsgr.html
