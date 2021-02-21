@@ -1,4 +1,7 @@
 # AutomateCOVID-19Forms
+
+https://www.srvapps.com/automatecovid-19formsgr.html
+
 Automatic Creation of Covid19 Employee Commute Allowance Forms - Αυτόματη Συμπλήρωση Βεβαίωσης Ελεύθερης Κυκλοφορίας Εργαζομένου/συνεργάτη για επιχειρήσεις
 
 ΔΩΡΕΑΝ εφαρμογή,  Αυτόματης  Συμπλήρωσης, για την έκδοση Βεβαίωσης  Ελεύθερης Κυκλοφορίας Εργαζομένου, για επιχειρήσεις.
@@ -15,4 +18,9 @@ Automatic Creation of Covid19 Employee Commute Allowance Forms - Αυτόματ�
 
 Τα έκτακτα μέτρα απαγόρευσης κυκλοφορίας , από τις 23/3/2020 λόγω της πανδημίας covid-19 , έφεραν στην καθημερινότητα μας, την υποχρεωτική  Βεβαίωση  Ελεύθερης Κυκλοφορίας Εργαζομένου  (forma.gov.gr) .
 
+https://www.srvapps.com/images/2021/02/15/AutomateCovidFormsStep1.jpg
 
+
+
+
+https://www.srvapps.com/automatecovid-19formsgr.html
