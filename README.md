@@ -18,9 +18,16 @@ Automatic Creation of Covid19 Employee Commute Allowance Forms - Αυτόματ�
 
 Τα έκτακτα μέτρα απαγόρευσης κυκλοφορίας , από τις 23/3/2020 λόγω της πανδημίας covid-19 , έφεραν στην καθημερινότητα μας, την υποχρεωτική  Βεβαίωση  Ελεύθερης Κυκλοφορίας Εργαζομένου  (forma.gov.gr) .
 
-https://www.srvapps.com/images/2021/02/15/AutomateCovidFormsStep1.jpg
 
 ![Figure 1-1](https://www.srvapps.com/images/2021/02/15/AutomateCovidFormsStep1.jpg "Figure 1-1")
+
+![Figure 1-2](https://www.srvapps.com/images/2021/02/15/AutomateCovidFormsStep2.jpg "Figure 1-2")
+
+![Figure 1-3](https://www.srvapps.com/images/2021/02/15/AutomateCovidFormsStep3.jpg "Figure 1-3")
+
+![Figure 1-4](https://www.srvapps.com/images/2021/02/15/AutomateCovidFormsStep4.jpg "Figure 1-4")
+
+![Figure 1-5](https://www.srvapps.com/images/2021/02/15/AutomateCovidFormsStep5.jpg "Figure 1-5")
 
 
 https://www.srvapps.com/automatecovid-19formsgr.html
